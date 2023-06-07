@@ -1,0 +1,8 @@
+I will send you my html and css so you can make me an animation using javascript and maybe css.
+
+the animation I want you to make is that "right-column-about h2" slides in from right to left when you scroll down. Make this using javascript and css. Use diferent sheets like I did
+
+
+
+
+I will send you my html and css, can you make my webpage responsive using media queries? Only start sending the mediaqueries when I sent both my html and css.
